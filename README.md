@@ -36,7 +36,8 @@ project/
 
 ### 📷 Preview
 
-> Add a screenshot or GIF here to show what the project looks like!
+> ![image](https://github.com/user-attachments/assets/56f5d8d6-4d28-4249-8ab9-98e0c5328b2a)
+
 
 ### 💡 How to Use
 
