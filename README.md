@@ -39,10 +39,6 @@ project/
 > ![image](https://github.com/user-attachments/assets/56f5d8d6-4d28-4249-8ab9-98e0c5328b2a)
 
 
-### 💡 How to Use
 
-1. Clone or download the repository
-2. Make sure the `images` folder is in the same directory as `index.html`
-3. Open `index.html` in any browser
 
 
